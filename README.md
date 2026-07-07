@@ -98,10 +98,6 @@ We welcome contributions from the community! If you would like to contribute, pl
 - Commit your changes and push to your branch.
 - Submit a pull request detailing your changes.
 
-## License
-
-This repository is licensed under the MIT License. See the [LICENSE](LICENSE) file for more details.
-
 ---
 
 ## Project Made By
