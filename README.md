@@ -100,10 +100,3 @@ We welcome contributions from the community! If you would like to contribute, pl
 
 ---
 
-## Project Made By
-
-| Field       | Details                       |
-|-------------|-------------------------------|
-| **Name**    | Ganji Anirudh                 |
-| **College** | SR University                 |
-| **Email**   | anirudh.ganji15@gmail.com     |
