@@ -4,7 +4,7 @@ Welcome to the **RAG-Projects** repository! This collection contains various pro
 
 ## Table of Contents
 
-1. [Introduction](#introduction)
+ [Introduction](#introduction)
 2. [Projects](#projects)
     - [Langchain-What We Will Learn And Demo Projects](#langchain-what-we-will-learn-and-demo-projects)
     - [Building Chatbot Using Paid And Open Source LLM's](#building-chatbot-using-paid-and-open-source-llms)
