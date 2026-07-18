@@ -24,7 +24,7 @@ Welcome to the **RAG-Projects** repository! This collection contains various pro
 3. [Contributing](#contributing)
 4. [License](#license)
 
-Introduction
+##Introduction
 
 This repository is dedicated to exploring the capabilities of Langchain for creating advanced Retrieval-Augmented Generation (RAG) applications. The projects included cover a wide range of use cases, from building chatbots and deploying APIs to implementing complex Q&A systems.
 
